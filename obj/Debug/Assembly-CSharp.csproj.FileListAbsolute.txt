@@ -280,3 +280,5 @@ C:\Users\lolol\OneDrive\Desktop\Race\Race\obj\Debug\Assembly-CSharp.csproj.CoreC
 C:\Users\lolol\OneDrive\Desktop\Race\Race\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\lolol\OneDrive\Desktop\Race\Race\obj\Debug\Assembly-CSharp.dll
 C:\Users\lolol\OneDrive\Desktop\Race\Race\obj\Debug\Assembly-CSharp.pdb
+C:\Users\lolol\OneDrive\Desktop\Race\Race\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Users\lolol\OneDrive\Desktop\Race\Race\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
